@@ -42,7 +42,3 @@ with open('scores.csv', mode='w') as csv_file:
     for i in FINALDATA:
         writer.writerow(i)
     
-
-
-# IGNORE (html finder)
-htmlsearch = """"""
